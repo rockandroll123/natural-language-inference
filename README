@@ -1,0 +1,8 @@
+dataset: SNLI DATA  https://nlp.stanford.edu/projects/snli/
+pre-train model--> GLOVE Model:   glove.840B.300d.txt. from -->https://nlp.stanford.edu/projects/glove/
+Reference paper: 
+1. Enhanced LSTM for Natural Language Inference, -->https://arxiv.org/abs/1609.06038
+2. Learning Natural Language Inference with LSTM,-->chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.aclweb.org/anthology/N16-1170
+3. An overview of Natural Language Inference Data Collection,-->chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://aclweb.org/anthology/W17-7203
+4. Supervised Learning of Universal Sentence Representations from Natural Language Inference Data,-->https://arxiv.org/abs/1705.02364
+
