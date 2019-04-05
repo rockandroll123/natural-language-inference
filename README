@@ -6,3 +6,4 @@ Reference paper:
 3. An overview of Natural Language Inference Data Collection,-->chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://aclweb.org/anthology/W17-7203
 4. Supervised Learning of Universal Sentence Representations from Natural Language Inference Data,-->https://arxiv.org/abs/1705.02364
 
+precomputed_glove.weights.npy,--> https://drive.google.com/file/d/1F6omX42Q3eTKF4jX2ijND4c5LpOCJBfD/view?usp=sharing
